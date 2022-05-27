@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/haost/prodject/C++/serverssl/build/_deps/ssl_content-subbuild/CMakeFiles/ssl_content-populate"
+		},
+		{
+			"file" : "/home/haost/prodject/C++/serverssl/build/_deps/ssl_content-subbuild/CMakeFiles/ssl_content-populate.rule"
+		},
+		{
+			"file" : "/home/haost/prodject/C++/serverssl/build/_deps/ssl_content-subbuild/CMakeFiles/ssl_content-populate-complete.rule"
+		},
+		{
+			"file" : "/home/haost/prodject/C++/serverssl/build/_deps/ssl_content-subbuild/ssl_content-populate-prefix/src/ssl_content-populate-stamp/ssl_content-populate-build.rule"
+		},
+		{
+			"file" : "/home/haost/prodject/C++/serverssl/build/_deps/ssl_content-subbuild/ssl_content-populate-prefix/src/ssl_content-populate-stamp/ssl_content-populate-configure.rule"
+		},
+		{
+			"file" : "/home/haost/prodject/C++/serverssl/build/_deps/ssl_content-subbuild/ssl_content-populate-prefix/src/ssl_content-populate-stamp/ssl_content-populate-download.rule"
+		},
+		{
+			"file" : "/home/haost/prodject/C++/serverssl/build/_deps/ssl_content-subbuild/ssl_content-populate-prefix/src/ssl_content-populate-stamp/ssl_content-populate-install.rule"
+		},
+		{
+			"file" : "/home/haost/prodject/C++/serverssl/build/_deps/ssl_content-subbuild/ssl_content-populate-prefix/src/ssl_content-populate-stamp/ssl_content-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/haost/prodject/C++/serverssl/build/_deps/ssl_content-subbuild/ssl_content-populate-prefix/src/ssl_content-populate-stamp/ssl_content-populate-patch.rule"
+		},
+		{
+			"file" : "/home/haost/prodject/C++/serverssl/build/_deps/ssl_content-subbuild/ssl_content-populate-prefix/src/ssl_content-populate-stamp/ssl_content-populate-test.rule"
+		},
+		{
+			"file" : "/home/haost/prodject/C++/serverssl/build/_deps/ssl_content-subbuild/ssl_content-populate-prefix/src/ssl_content-populate-stamp/ssl_content-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ssl_content-populate"
+		],
+		"name" : "ssl_content-populate"
+	}
+}

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/app.dir/main.cpp.o -o app  src/libclient.a _deps/ssl_content-build/ssl/libssl.a _deps/ssl_content-build/crypto/libcrypto.a -ldl 

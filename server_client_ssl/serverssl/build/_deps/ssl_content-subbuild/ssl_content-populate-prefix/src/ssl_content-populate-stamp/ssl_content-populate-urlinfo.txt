@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/janbar/openssl-cmake/archive/refs/tags/1.1.1k-20210430.tar.gz'
+tag='MD5=f4294e5de7ebb20f9a695155660f1afd'

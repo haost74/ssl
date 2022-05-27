@@ -1,0 +1,247 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"build/_deps/ssl_content-src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 188,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 192,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 193,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 194,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 195,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 199,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 201,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 205,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "ssl",
+			"paths" : 
+			[
+				"build/_deps/ssl_content-src/apps/openssl.cnf",
+				"build/_deps/ssl_content-src/apps/ct_log_list.cnf"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"type" : "code"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"type" : "code"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"type" : "code"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"build/_deps/ssl_content-build/c_rehash"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "include/openssl",
+			"paths" : 
+			[
+				"build/_deps/ssl_content-build/include/openssl/aes.h",
+				"build/_deps/ssl_content-build/include/openssl/asn1.h",
+				"build/_deps/ssl_content-build/include/openssl/asn1_mac.h",
+				"build/_deps/ssl_content-build/include/openssl/asn1err.h",
+				"build/_deps/ssl_content-build/include/openssl/asn1t.h",
+				"build/_deps/ssl_content-build/include/openssl/async.h",
+				"build/_deps/ssl_content-build/include/openssl/asyncerr.h",
+				"build/_deps/ssl_content-build/include/openssl/bio.h",
+				"build/_deps/ssl_content-build/include/openssl/bioerr.h",
+				"build/_deps/ssl_content-build/include/openssl/blowfish.h",
+				"build/_deps/ssl_content-build/include/openssl/bn.h",
+				"build/_deps/ssl_content-build/include/openssl/bnerr.h",
+				"build/_deps/ssl_content-build/include/openssl/buffer.h",
+				"build/_deps/ssl_content-build/include/openssl/buffererr.h",
+				"build/_deps/ssl_content-build/include/openssl/camellia.h",
+				"build/_deps/ssl_content-build/include/openssl/cast.h",
+				"build/_deps/ssl_content-build/include/openssl/cmac.h",
+				"build/_deps/ssl_content-build/include/openssl/cms.h",
+				"build/_deps/ssl_content-build/include/openssl/cmserr.h",
+				"build/_deps/ssl_content-build/include/openssl/comp.h",
+				"build/_deps/ssl_content-build/include/openssl/comperr.h",
+				"build/_deps/ssl_content-build/include/openssl/conf.h",
+				"build/_deps/ssl_content-build/include/openssl/conf_api.h",
+				"build/_deps/ssl_content-build/include/openssl/conferr.h",
+				"build/_deps/ssl_content-build/include/openssl/crypto.h",
+				"build/_deps/ssl_content-build/include/openssl/cryptoerr.h",
+				"build/_deps/ssl_content-build/include/openssl/ct.h",
+				"build/_deps/ssl_content-build/include/openssl/cterr.h",
+				"build/_deps/ssl_content-build/include/openssl/des.h",
+				"build/_deps/ssl_content-build/include/openssl/dh.h",
+				"build/_deps/ssl_content-build/include/openssl/dherr.h",
+				"build/_deps/ssl_content-build/include/openssl/dsa.h",
+				"build/_deps/ssl_content-build/include/openssl/dsaerr.h",
+				"build/_deps/ssl_content-build/include/openssl/dtls1.h",
+				"build/_deps/ssl_content-build/include/openssl/e_os2.h",
+				"build/_deps/ssl_content-build/include/openssl/ebcdic.h",
+				"build/_deps/ssl_content-build/include/openssl/ec.h",
+				"build/_deps/ssl_content-build/include/openssl/ecdh.h",
+				"build/_deps/ssl_content-build/include/openssl/ecdsa.h",
+				"build/_deps/ssl_content-build/include/openssl/ecerr.h",
+				"build/_deps/ssl_content-build/include/openssl/engine.h",
+				"build/_deps/ssl_content-build/include/openssl/engineerr.h",
+				"build/_deps/ssl_content-build/include/openssl/err.h",
+				"build/_deps/ssl_content-build/include/openssl/evp.h",
+				"build/_deps/ssl_content-build/include/openssl/evperr.h",
+				"build/_deps/ssl_content-build/include/openssl/hmac.h",
+				"build/_deps/ssl_content-build/include/openssl/idea.h",
+				"build/_deps/ssl_content-build/include/openssl/kdf.h",
+				"build/_deps/ssl_content-build/include/openssl/kdferr.h",
+				"build/_deps/ssl_content-build/include/openssl/lhash.h",
+				"build/_deps/ssl_content-build/include/openssl/md2.h",
+				"build/_deps/ssl_content-build/include/openssl/md4.h",
+				"build/_deps/ssl_content-build/include/openssl/md5.h",
+				"build/_deps/ssl_content-build/include/openssl/mdc2.h",
+				"build/_deps/ssl_content-build/include/openssl/modes.h",
+				"build/_deps/ssl_content-build/include/openssl/obj_mac.h",
+				"build/_deps/ssl_content-build/include/openssl/objects.h",
+				"build/_deps/ssl_content-build/include/openssl/objectserr.h",
+				"build/_deps/ssl_content-build/include/openssl/ocsp.h",
+				"build/_deps/ssl_content-build/include/openssl/ocsperr.h",
+				"build/_deps/ssl_content-build/include/openssl/opensslconf.h",
+				"build/_deps/ssl_content-build/include/openssl/opensslv.h",
+				"build/_deps/ssl_content-build/include/openssl/ossl_typ.h",
+				"build/_deps/ssl_content-build/include/openssl/pem.h",
+				"build/_deps/ssl_content-build/include/openssl/pem2.h",
+				"build/_deps/ssl_content-build/include/openssl/pemerr.h",
+				"build/_deps/ssl_content-build/include/openssl/pkcs12.h",
+				"build/_deps/ssl_content-build/include/openssl/pkcs12err.h",
+				"build/_deps/ssl_content-build/include/openssl/pkcs7.h",
+				"build/_deps/ssl_content-build/include/openssl/pkcs7err.h",
+				"build/_deps/ssl_content-build/include/openssl/rand.h",
+				"build/_deps/ssl_content-build/include/openssl/rand_drbg.h",
+				"build/_deps/ssl_content-build/include/openssl/randerr.h",
+				"build/_deps/ssl_content-build/include/openssl/rc2.h",
+				"build/_deps/ssl_content-build/include/openssl/rc4.h",
+				"build/_deps/ssl_content-build/include/openssl/rc5.h",
+				"build/_deps/ssl_content-build/include/openssl/ripemd.h",
+				"build/_deps/ssl_content-build/include/openssl/rsa.h",
+				"build/_deps/ssl_content-build/include/openssl/rsaerr.h",
+				"build/_deps/ssl_content-build/include/openssl/safestack.h",
+				"build/_deps/ssl_content-build/include/openssl/seed.h",
+				"build/_deps/ssl_content-build/include/openssl/sha.h",
+				"build/_deps/ssl_content-build/include/openssl/srp.h",
+				"build/_deps/ssl_content-build/include/openssl/srtp.h",
+				"build/_deps/ssl_content-build/include/openssl/ssl.h",
+				"build/_deps/ssl_content-build/include/openssl/ssl2.h",
+				"build/_deps/ssl_content-build/include/openssl/ssl3.h",
+				"build/_deps/ssl_content-build/include/openssl/sslerr.h",
+				"build/_deps/ssl_content-build/include/openssl/stack.h",
+				"build/_deps/ssl_content-build/include/openssl/store.h",
+				"build/_deps/ssl_content-build/include/openssl/storeerr.h",
+				"build/_deps/ssl_content-build/include/openssl/symhacks.h",
+				"build/_deps/ssl_content-build/include/openssl/tls1.h",
+				"build/_deps/ssl_content-build/include/openssl/ts.h",
+				"build/_deps/ssl_content-build/include/openssl/tserr.h",
+				"build/_deps/ssl_content-build/include/openssl/txt_db.h",
+				"build/_deps/ssl_content-build/include/openssl/ui.h",
+				"build/_deps/ssl_content-build/include/openssl/uierr.h",
+				"build/_deps/ssl_content-build/include/openssl/whrlpool.h",
+				"build/_deps/ssl_content-build/include/openssl/x509.h",
+				"build/_deps/ssl_content-build/include/openssl/x509_vfy.h",
+				"build/_deps/ssl_content-build/include/openssl/x509err.h",
+				"build/_deps/ssl_content-build/include/openssl/x509v3.h",
+				"build/_deps/ssl_content-build/include/openssl/x509v3err.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "share/openssl",
+			"paths" : 
+			[
+				"build/_deps/ssl_content-src/FAQ",
+				"build/_deps/ssl_content-src/LICENSE",
+				"build/_deps/ssl_content-src/README",
+				"build/_deps/ssl_content-src/README.ENGINE"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"destination" : "share",
+			"paths" : 
+			[
+				"build/_deps/ssl_content-src/doc"
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/ssl_content-build",
+		"source" : "build/_deps/ssl_content-src"
+	}
+}

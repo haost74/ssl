@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/haost/prodject/C++/ssl'
+make: Leaving directory '/home/haost/prodject/C++/ssl'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
